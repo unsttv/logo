@@ -2,4 +2,4 @@
 
 unst logo
 
-![unst](./svg/logo.svg)
+![unst](./dist/logo.svg)
