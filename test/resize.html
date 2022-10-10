@@ -12,7 +12,7 @@
     </style>
 </head>
 <body id="top">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 40">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 224 20">
     <g>
         <polygon class="u" points="8,19 4,19 4,9 0,9 0,20 12,20 12,9 8,9"/>
         <polygon class="n" points="16,20 20,20 20,10 24,10 24,20 28,20 28,9 16,9"/>
@@ -47,18 +47,18 @@
     }
 */
 
-    let multiplier = 2;
+    let multiplier = 4;
 
     for(let i = 0; i < u_length; i++) {
-        u.points[i].y *= multiplier;
+        u.points[i].x *= multiplier;
     }
 
     for(let i = 0; i < n_length; i++) {
-        n.points[i].y *= multiplier;
+        n.points[i].x *= multiplier;
     }
 
     for(let i = 0; i < st_length; i++) {
-        st.points[i].y *= multiplier;
+        st.points[i].x *= multiplier;
     }
 
 
