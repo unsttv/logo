@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 20">
+    <g>
+        <polygon class="u" points="16 19 8 19 8 9 0 9 0 20 24 20 24 9 16 9"/>
+        <polygon class="n" points="32 20 40 20 40 10 48 10 48 20 56 20 56 9 32 9"/>
+        <polygon class="st" points="112 10 112 9 104 9 104 0 86 0 86 9 64 9 64 15 80 15 80 19 64 19 64 20 88 20 88 14 72 14 72 10 88 10 88 1 96 1 96 20 112 20 112 19 104 19 104 10"/>
+    </g>
+</svg>
